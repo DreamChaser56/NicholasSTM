@@ -4068,7 +4068,7 @@ input[type="checkbox"] {
   width: 40px;
   height: 40px;
   background: rgba(255, 255, 255, 0.1);
-  color: #fff;
+  color: goldenrod;
   text-align: center;
   line-height: 40px;
   cursor: pointer;
@@ -4090,6 +4090,7 @@ input[type="checkbox"] {
 .mobile-menu-overlay__body .offcanvas-navigation > ul > li.has-children .sub-menu, .page-oppen-off-sidebar__body .offcanvas-navigation > ul > li.has-children .sub-menu {
   padding: 12px 0 14px 10px;
   border-top: 1px solid rgba(255, 255, 255, 0.15);
+  color: goldenrod;
 }
 
 .mobile-menu-overlay__body .offcanvas-navigation > ul > li.has-children .sub-menu li, .page-oppen-off-sidebar__body .offcanvas-navigation > ul > li.has-children .sub-menu li {
@@ -4103,7 +4104,9 @@ input[type="checkbox"] {
   font-weight: 500;
   line-height: 1.5;
   padding: 10px 0;
+  color: goldenrod;
 }
+
 
 .mobile-menu-overlay__body .offcanvas-navigation > ul > li.has-children .sub-menu li a:hover, .page-oppen-off-sidebar__body .offcanvas-navigation > ul > li.has-children .sub-menu li a:hover {
   color: #ffffff;
@@ -4115,6 +4118,7 @@ input[type="checkbox"] {
 
 .mobile-menu-overlay__body .offcanvas-navigation > ul > li.has-children .sub-menu li.has-children, .page-oppen-off-sidebar__body .offcanvas-navigation > ul > li.has-children .sub-menu li.has-children {
   position: relative;
+  color: goldenrod;
 }
 
 .mobile-menu-overlay__body .offcanvas-navigation > ul > li.has-children .sub-menu li.has-children.active .menu-expand:before, .page-oppen-off-sidebar__body .offcanvas-navigation > ul > li.has-children .sub-menu li.has-children.active .menu-expand:before {
@@ -4128,7 +4132,7 @@ input[type="checkbox"] {
   width: 30px;
   height: 30px;
   background: rgba(255, 255, 255, 0.1);
-  color: #fff;
+  color: goldenrod;
   text-align: center;
   line-height: 30px;
   cursor: pointer;
@@ -4145,18 +4149,22 @@ input[type="checkbox"] {
   content: '\f107';
   font-size: 16px;
   font-family: "Font Awesome 5 Pro";
+  color: goldenrod;
   font-weight: 500;
 }
 
 .mobile-menu-overlay__body .offcanvas-navigation > ul > li.has-children .sub-menu .sub-menu li.has-children, .page-oppen-off-sidebar__body .offcanvas-navigation > ul > li.has-children .sub-menu .sub-menu li.has-children {
   position: relative;
+  color: goldenrod;
 }
 
 .mobile-menu-overlay__body .offcanvas-navigation > ul > li.has-children .sub-menu .sub-menu li.has-children.active .menu-expand:before, .page-oppen-off-sidebar__body .offcanvas-navigation > ul > li.has-children .sub-menu .sub-menu li.has-children.active .menu-expand:before {
+  color:goldenrod;
   content: "\f106";
 }
 
 .mobile-menu-overlay__body .offcanvas-navigation > ul > li.has-children .sub-menu .sub-menu li.has-children .menu-expand:before, .page-oppen-off-sidebar__body .offcanvas-navigation > ul > li.has-children .sub-menu .sub-menu li.has-children .menu-expand:before {
+  color: goldenrod;
   content: '\f107';
   font-size: 16px;
   font-family: "Font Awesome 5 Pro";
@@ -4165,6 +4173,7 @@ input[type="checkbox"] {
 
 .mobile-menu-overlay__body .offcanvas-navigation--onepage > ul > li.active > a, .page-oppen-off-sidebar__body .offcanvas-navigation--onepage > ul > li.active > a {
   font-weight: 700;
+
 }
 
 /*======================================
