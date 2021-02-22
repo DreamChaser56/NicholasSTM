@@ -767,7 +767,7 @@ input[type="checkbox"] {
   background-size: cover;
   z-index: 3;
   position: relative;
-  background-image: url("C:/Users/Nicholas Smith/Downloads/themeforest-MaZrtnvo-mitech-it-solutions-html-template/mitech/Pictures/blue-bg-1200x540.jpg");
+  background-image: url("/Pictures/STM_Banner2-1200x540.jpg");
 }
 
 @media only screen and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -10817,21 +10817,21 @@ ol {
 }
 
 .appointment-contact-bg {
-  background: url(/Pictures/STM_Banner2-1200x540.jpg);
+  background: url(../images/bg/home-appointment-contact-bg-image.png);
   background-repeat: no-repeat;
   background-position: center right;
 }
 
 .service-contact-bg {
   background-color: grey;
-  background-image: url(/Pictures/STM_Banner2-1200x540.jpg);
+  background-image: url(../images/bg/mitech-home-services-contact-bg.png);
   background-repeat: no-repeat;
   background-position: left bottom;
 }
 
 .processing-contact-us-bg {
   background-color: grey;
-  background-image: url(/Pictures/STM_Banner2-1200x540.jpg);
+  background-image: url(../images/bg/mitech-processing-contact-bg.png);
   background-repeat: no-repeat;
   background-position: top right;
 }
@@ -10893,7 +10893,7 @@ ol {
 
 .infotechno-contact-us-bg {
   background-color: #eff2f6;
-  background-image: url(../images/bg/home-infotechno-contact-bg.jpg);
+  background-image: url(/Pictures/STM_Banner2-1200x540.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
