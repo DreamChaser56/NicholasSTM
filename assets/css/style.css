@@ -10817,21 +10817,21 @@ ol {
 }
 
 .appointment-contact-bg {
-  background: url(../images/bg/home-appointment-contact-bg-image.png);
+  background: url(/Pictures/STM_Banner2-1200x540.jpg);
   background-repeat: no-repeat;
   background-position: center right;
 }
 
 .service-contact-bg {
   background-color: grey;
-  background-image: url(../images/bg/mitech-home-services-contact-bg.png);
+  background-image: url(/Pictures/STM_Banner2-1200x540.jpg);
   background-repeat: no-repeat;
   background-position: left bottom;
 }
 
 .processing-contact-us-bg {
   background-color: grey;
-  background-image: url(../images/bg/mitech-processing-contact-bg.png);
+  background-image: url(/Pictures/STM_Banner2-1200x540.jpg);
   background-repeat: no-repeat;
   background-position: top right;
 }
@@ -13368,7 +13368,7 @@ blockquote {
 =      40. About Us pages Css           =
 =======================================*/
 .about-us-bg {
-  background-image: url("C:/Users/Nicholas Smith/Downloads/themeforest-MaZrtnvo-mitech-it-solutions-html-template/mitech/Pictures/blue-bg-1200x540.jpg");
+  background-image: url("/Pictures/STM_Banner2-1200x540.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
